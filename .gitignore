@@ -1,0 +1,5 @@
+node_modules/
+.vscode
+check.js
+Logs/
+.env
